@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I design solutions to help understand how biological systems function, using mathematical modelling, image analysis and machine learning.
