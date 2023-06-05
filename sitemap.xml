@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://jfozard.github.io/blog/firstpost/</loc>
+		<loc>https://jfozard.github.io/blog/old/firstpost/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://jfozard.github.io/blog/secondpost/</loc>
+		<loc>https://jfozard.github.io/blog/old/secondpost/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://jfozard.github.io/blog/thirdpost/</loc>
+		<loc>https://jfozard.github.io/blog/old/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
@@ -42,17 +42,17 @@
 	</url>
 	
 	<url>
+		<loc>https://jfozard.github.io/tags/second-tag/</loc>
+		<lastmod>2023-06-05</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://jfozard.github.io/tags/another-tag/</loc>
 		<lastmod>2023-06-05</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://jfozard.github.io/tags/number-2/</loc>
-		<lastmod>2023-06-05</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://jfozard.github.io/tags/second-tag/</loc>
 		<lastmod>2023-06-05</lastmod>
 	</url>
 	
